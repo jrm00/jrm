@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Machines
 permalink: /machines/
 ---
 
@@ -11,8 +11,8 @@ TJE Miller and Jim Hendershot
 Book - Popularly called "Green Book" 
 
 Videos
-Hendeshor - Cusp
-Miller - Jmag 
+Hendeshor - Cusp | https://cusp.umn.edu/electric-machine-design-videos
+Miller - | Jmag https://www.jmag-international.com/seminar/prof_miller_seminar/
 
 
 
