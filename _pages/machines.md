@@ -7,6 +7,8 @@ permalink: /machines/
 ## Begin
 
 [Hendeshor - Cusp](https://cusp.umn.edu/electric-machine-design-videos)
+
+
 [Miller - Jmag](https://www.jmag-international.com/seminar/prof_miller_seminar/)
 
 
